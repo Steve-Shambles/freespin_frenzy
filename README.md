@@ -57,6 +57,7 @@ This score is saved to disc and loaded in the next time you play.
 Above the three reels\cards is the games message area this will tell you the outcome of every spin and how much you have won if anything, this area is 
 also used during freespins to keep you informed of spins left, wins, etc.
 
+![Alt Text](https://github.com/Steve-Shambles/freespin_frenzy/blob/main/cards/screenshot_01.png)
 
 At the top left of the game window you will see a drop-down "MENU".
 Options in the menu include:
@@ -99,6 +100,7 @@ Note: the jackpot (3 wilds) will end the freespins immediately.
 Note: A single wild card can replace any symbol
 except freespins, suit or bonus pot.
 
+![Alt Text](https://github.com/Steve-Shambles/freespin_frenzy/blob/main/cards/screenshot_02.jpg)
 
 Good luck.
 Steve Shambles May 2023
