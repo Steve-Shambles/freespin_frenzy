@@ -22,6 +22,7 @@ on my 16gig machine I get about 100-120 spins before a crash,
 thats why I save the bank and high score to disc so player can continue where
 it crashed. I need pro help to fix this.
 
+![Alt Text](https://github.com/Steve-Shambles/freespin_frenzy/blob/main/cards/screenshot_00.png)
 
 Introduction:
 
