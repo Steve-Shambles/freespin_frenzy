@@ -21,7 +21,7 @@ A massive memory bug, the game will crash after gobbling up loads of memory,
 on my 16gig machine I get about 100-120 spins before a crash,
 thats why I save the bank and high score to disc so player can continue where
 it crashed. I need pro help to fix this.
-------------------------------------
+
 
 Introduction:
 
