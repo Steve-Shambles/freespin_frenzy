@@ -100,7 +100,7 @@ Note: the jackpot (3 wilds) will end the freespins immediately.
 Note: A single wild card can replace any symbol
 except freespins, suit or bonus pot.
 
-![Alt Text](https://github.com/Steve-Shambles/freespin_frenzy/blob/main/cards/screenshot-2.jpg)
+![Alt Text](cards/screenshot-2.jpg)
 
 Good luck.
 Steve Shambles May 2023
